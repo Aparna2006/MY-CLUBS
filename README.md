@@ -54,6 +54,6 @@ The National Service Scheme (NSS) focuses on community development, environmenta
 
 **Impact:**Developed grassroots leadership, teamwork, adaptability, and community engagement skills.
 
-Want To Know More: [more_about_NSS](NSS SERVICE /Services.md)
+Want To Know More:([NSS SERVICE /Services.md](https://github.com/Aparna2006/MY-CLUBS/blob/554a75d99b9cd854f871cc6dc6dbb1d5406d23d1/NSS%20SERVICE%20/Services.md))
 
 
