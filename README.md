@@ -32,7 +32,7 @@ The Association of Computer Intellects (ASCI) is the technical club of our depar
 **Impact:** Strengthened technical leadership, documentation skills, event execution, and collaborative coordination.
 
 
- MORE ABOUT AsCI: [More About AsCI](https://github.com/Aparna2006/MY-CLUBS/blob/06e26935d2206b917178c32097c3a105d88ef312/AsCI%20Technical%20Club/achievements.md)
+ MORE ABOUT AsCI: [AsCI](https://github.com/Aparna2006/MY-CLUBS/blob/06e26935d2206b917178c32097c3a105d88ef312/AsCI%20Technical%20Club/achievements.md)
 ---
 
 ## 🌱 NSS – National Service Scheme
@@ -54,6 +54,6 @@ The National Service Scheme (NSS) focuses on community development, environmenta
 
 **Impact:**Developed grassroots leadership, teamwork, adaptability, and community engagement skills.
 
-**Want To Know More**: [NSS Services](https://github.com/Aparna2006/MY-CLUBS/blob/554a75d99b9cd854f871cc6dc6dbb1d5406d23d1/NSS%20SERVICE%20/Services.md)
+**Want To Know More**: [**NSS Services**](https://github.com/Aparna2006/MY-CLUBS/blob/554a75d99b9cd854f871cc6dc6dbb1d5406d23d1/NSS%20SERVICE%20/Services.md)
 
 
