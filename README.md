@@ -32,7 +32,7 @@ The Association of Computer Intellects (ASCI) is the technical club of our depar
 **Impact:** Strengthened technical leadership, documentation skills, event execution, and collaborative coordination.
 
 
-MORE ABOUT AsCI : AsCI Technical Club/achievements.md
+MORE ABOUT AsCI : [more_about_AsCI] (https://github.com/Aparna2006/MY-CLUBS/blob/06e26935d2206b917178c32097c3a105d88ef312/AsCI%20Technical%20Club/achievements.md)
 ---
 
 ## 🌱 NSS – National Service Scheme
