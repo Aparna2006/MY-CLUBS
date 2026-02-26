@@ -52,6 +52,8 @@ The National Service Scheme (NSS) focuses on community development, environmenta
 * Actively participated in the Special Camp at Paradesipalem village
 * Contributed to structured execution of daily camp activities
 
-**Impact:** Developed grassroots leadership, teamwork, adaptability, and community engagement skills.
+**Impact:**Developed grassroots leadership, teamwork, adaptability, and community engagement skills.
+
+Want To Know More: [more_about_NSS](NSS SERVICE /Services.md)
 
 
