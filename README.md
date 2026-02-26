@@ -2,6 +2,7 @@
 # 📌 Club Leadership & Involvement
 
 ## Aparna K | B.Tech CSE
+**LINKEDIN PROFILE** : [APARNA_KONDIPARTHY](https://www.linkedin.com/in/aparna-kondiparthy-576aab290/)
 
 ---
 
